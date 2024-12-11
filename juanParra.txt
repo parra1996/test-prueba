@@ -1,3 +1,7 @@
 React
 Vue
 Angular
+
+Javascript
+Java
+Python
